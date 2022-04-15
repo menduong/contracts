@@ -1,0 +1,3 @@
+[submodule "CL-EA-NodeJS-Template"]
+	path = CL-EA-NodeJS-Template
+	url = https://github.com/menduong/CL-EA-NodeJS-Template.git
